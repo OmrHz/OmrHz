@@ -14,10 +14,10 @@
 
 <table border-style="none">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=omrhz&show_icons=true&locale=en&theme=tokyonight" alt="omrhz" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=omrhz&theme=tokyonight" alt="omrhz" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=OmrHz&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="omrhz" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=OmrHz&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="omrhz" /></td>
   </tr>
 </table>
 <center>
-  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omrhz&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="omrhz" /></p>
+  <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmrHz&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="omrhz" /></p>
 </center>
