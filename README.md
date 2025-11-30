@@ -12,19 +12,22 @@
 
 
 
-<table border-style="none">
-  <tr>
-    <td>  
-      <p>
-        <center>
-    <a href="https://github.com/OmrHz/github-readme-streak-stats">
-      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OmrHz's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=OmrHz&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-    </center></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <table style="border-style: none; margin: auto;">
+    <tr>
+      <td>
+        <a href="https://github.com/OmrHz/github-readme-streak-stats">
+          <img 
+            title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+            alt="OmrHz's streak"
+            src="https://github-readme-streak-stats-eight.vercel.app/?user=OmrHz&theme=monokai-metallian&hide_border=true&short_numbers=true"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <center>
   <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmrHz&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="omrhz" /></p>
 </center>
