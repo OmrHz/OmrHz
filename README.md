@@ -16,11 +16,13 @@
   <tr>
     <td>  
       <p>
+        <center>
     <a href="https://github.com/OmrHz/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OmrHz's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=OmrHz&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-  </p></td>
+  </p>
+    </center></td>
   </tr>
 </table>
 <center>
