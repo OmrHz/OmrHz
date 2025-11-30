@@ -14,7 +14,6 @@
 
 <table border-style="none">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=OmrHz&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="omrhz" /></td>
     <td>  
       <p>
     <a href="https://github.com/OmrHz/github-readme-streak-stats">
